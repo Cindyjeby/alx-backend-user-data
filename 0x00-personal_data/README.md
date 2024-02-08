@@ -11,3 +11,4 @@
 <p><a href="https://docs.python.org/3/library/logging.html">Logging documentation</a></p>
 <p><a href="https://github.com/pyca/bcrypt/">bcrpt package</a></p>
 <p><a href="https://www.youtube.com/watch?v=-ARI4Cz-awo">Logging to files, setting levels and formatting</a></p>
+<p><a href="https://www.digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic">Uncovering Password Habits</a></p>
